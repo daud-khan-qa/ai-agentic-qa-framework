@@ -1,0 +1,12 @@
+{
+  "name": "ai-agentic-qa-framework",
+  "version": "1.0.0",
+  "description": "Zero-dependency CDP browser driver and hydration-reliability patterns for AI-agent-driven QA",
+  "main": "src/agent-test-runner.js",
+  "scripts": {
+    "lint": "node --check src/cdp-driver.js && node --check src/hydration-wait.js && node --check src/agent-test-runner.js",
+    "test": "node --test test/*.test.js"
+  },
+  "license": "MIT",
+  "author": "Daud Khan"
+}
