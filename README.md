@@ -3,6 +3,8 @@
 [![CI](https://github.com/daud-khan-qa/ai-agentic-qa-framework/actions/workflows/ci.yml/badge.svg)](https://github.com/daud-khan-qa/ai-agentic-qa-framework/actions/workflows/ci.yml)
 [![Node.js 20+](https://img.shields.io/badge/node-20%2B-339933.svg)](package.json)
 
+[![License: Source-Available](https://img.shields.io/badge/license-source--available-lightgrey.svg)](#license)
+
 **All rights reserved.** This repository is shared publicly for portfolio and demonstration purposes only. No license is granted to copy, modify, or redistribute this code without my permission.
 
 A lightweight, zero-dependency framework for running AI-agent-driven browser QA against production SaaS applications - the pattern behind a platform I architected that manages 2,500+ automated test cases across a 19-product SaaS ecosystem.
