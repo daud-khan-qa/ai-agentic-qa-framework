@@ -2,10 +2,7 @@
 
 [![CI](https://github.com/daud-khan-qa/ai-agentic-qa-framework/actions/workflows/ci.yml/badge.svg)](https://github.com/daud-khan-qa/ai-agentic-qa-framework/actions/workflows/ci.yml)
 [![Node.js 20+](https://img.shields.io/badge/node-20%2B-339933.svg)](package.json)
-
 [![License: Source-Available](https://img.shields.io/badge/license-source--available-lightgrey.svg)](#license)
-
-**All rights reserved.** This repository is shared publicly for portfolio and demonstration purposes only. No license is granted to copy, modify, or redistribute this code without my permission.
 
 A lightweight, zero-dependency framework for running AI-agent-driven browser QA against production SaaS applications - the pattern behind a platform I architected that manages 2,500+ automated test cases across a 19-product SaaS ecosystem.
 
@@ -113,6 +110,10 @@ Applied against a 19-product production SaaS platform:
 
 - [`agentic-safety-patterns`](https://github.com/daud-khan-qa/agentic-safety-patterns) - what happens after this framework finds something: precision-gated auto-action, fail-closed data integrity
 - [`e2e-test-suite-patterns`](https://github.com/daud-khan-qa/e2e-test-suite-patterns) - the hand-authored, peer-reviewed E2E side of the same work
+
+## License
+
+**All rights reserved.** This repository is shared publicly for portfolio and demonstration purposes only. No license is granted to copy, modify, or redistribute this code without my permission.
 
 ---
 Built and used in production QA architecture, 2025-2026. Code here is a generalized, sanitized version - no proprietary endpoints, credentials, or business logic included.
